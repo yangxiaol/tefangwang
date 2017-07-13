@@ -1,0 +1,23 @@
+/* pages/layout/footer.wxss */
+.btn-area{
+  display: flex;
+  justify-content: space-around;
+  position: fixed;
+  bottom: 0;
+  background-color: #f8f8f8;
+  padding-top: 6rpx;
+  width: 100%;
+  border-top: 1px solid #ccc;
+}
+.btn-area:before{
+  border: 1px solid #000;
+}
+.group{
+  display: flex;
+  flex-direction:column;
+  text-align: center;
+}
+.btn-area .group text{
+  font-size: 24rpx;
+  line-height: 38rpx;
+}

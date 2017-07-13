@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/layout/footer",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#7ab827",
+    "navigationBarTitleText": "特房网",
+    "navigationBarTextStyle":"white"
+  }
+}

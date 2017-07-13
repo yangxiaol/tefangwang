@@ -1,0 +1,21 @@
+<!--pages/layout/footer.wxml-->
+<view class="btn-area">
+  <navigator url="/page/index/index" open-type="switchTab" hover-class="other-navigator-hover">
+    <view class="group">
+      <icon type="success" size="22"/>
+      <text>首页</text>
+    </view>
+  </navigator>
+  <navigator url="/page/index/index" open-type="switchTab" hover-class="other-navigator-hover">
+    <view class="group">
+      <icon type="success" size="22"/>
+      <text>关注</text>
+    </view>
+  </navigator>
+  <navigator url="/page/index/index" open-type="switchTab" hover-class="other-navigator-hover">
+    <view class="group">
+      <icon type="success" size="22"/>
+      <text>我的</text>
+    </view>
+  </navigator>
+</view>
